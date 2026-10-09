@@ -1,0 +1,10 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "version": 1,
+  "components": [
+    {"type":"library","name":"vehicle-diagnostics-core","version":"1.0.0","licenses":[{"license":{"id":"MIT"}}]},
+    {"type":"library","name":"someip-adapter","version":"2.1.0"}
+  ],
+  "vulnerabilities": []
+}
